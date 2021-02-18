@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**BhavyaM-23/BhavyaM-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**BhavyaM-23/BhavyaM-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 Here are some ideas to get you started:
 
