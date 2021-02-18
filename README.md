@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-<!--**BhavyaM-23/BhavyaM-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
+<!--**BhavyaM-23/BhavyaM-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:--->
 
-- 🔭 I’m currently studying in ... V R Siddhartha Engineering College    
+- This is M Bhargavi Sri Bhavya
+- I’m currently studying in  V R Siddhartha Engineering College in CSE branch   
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
